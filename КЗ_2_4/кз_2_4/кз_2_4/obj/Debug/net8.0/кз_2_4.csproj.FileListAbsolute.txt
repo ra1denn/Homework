@@ -1,0 +1,14 @@
+C:\Users\biwlo\OneDrive\Рабочий стол\КЗ_2_4\кз_2_4\кз_2_4\bin\Debug\net8.0\кз_2_4.exe
+C:\Users\biwlo\OneDrive\Рабочий стол\КЗ_2_4\кз_2_4\кз_2_4\bin\Debug\net8.0\кз_2_4.deps.json
+C:\Users\biwlo\OneDrive\Рабочий стол\КЗ_2_4\кз_2_4\кз_2_4\bin\Debug\net8.0\кз_2_4.runtimeconfig.json
+C:\Users\biwlo\OneDrive\Рабочий стол\КЗ_2_4\кз_2_4\кз_2_4\bin\Debug\net8.0\кз_2_4.dll
+C:\Users\biwlo\OneDrive\Рабочий стол\КЗ_2_4\кз_2_4\кз_2_4\bin\Debug\net8.0\кз_2_4.pdb
+C:\Users\biwlo\OneDrive\Рабочий стол\КЗ_2_4\кз_2_4\кз_2_4\obj\Debug\net8.0\кз_2_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biwlo\OneDrive\Рабочий стол\КЗ_2_4\кз_2_4\кз_2_4\obj\Debug\net8.0\кз_2_4.AssemblyInfoInputs.cache
+C:\Users\biwlo\OneDrive\Рабочий стол\КЗ_2_4\кз_2_4\кз_2_4\obj\Debug\net8.0\кз_2_4.AssemblyInfo.cs
+C:\Users\biwlo\OneDrive\Рабочий стол\КЗ_2_4\кз_2_4\кз_2_4\obj\Debug\net8.0\кз_2_4.csproj.CoreCompileInputs.cache
+C:\Users\biwlo\OneDrive\Рабочий стол\КЗ_2_4\кз_2_4\кз_2_4\obj\Debug\net8.0\кз_2_4.dll
+C:\Users\biwlo\OneDrive\Рабочий стол\КЗ_2_4\кз_2_4\кз_2_4\obj\Debug\net8.0\refint\кз_2_4.dll
+C:\Users\biwlo\OneDrive\Рабочий стол\КЗ_2_4\кз_2_4\кз_2_4\obj\Debug\net8.0\кз_2_4.pdb
+C:\Users\biwlo\OneDrive\Рабочий стол\КЗ_2_4\кз_2_4\кз_2_4\obj\Debug\net8.0\кз_2_4.genruntimeconfig.cache
+C:\Users\biwlo\OneDrive\Рабочий стол\КЗ_2_4\кз_2_4\кз_2_4\obj\Debug\net8.0\ref\кз_2_4.dll
