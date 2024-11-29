@@ -1,0 +1,14 @@
+C:\Users\biwlo\OneDrive\Рабочий стол\КЗ_11_1\кз_11_1\кз_11_1\bin\Debug\net8.0\кз_11_1.exe
+C:\Users\biwlo\OneDrive\Рабочий стол\КЗ_11_1\кз_11_1\кз_11_1\bin\Debug\net8.0\кз_11_1.deps.json
+C:\Users\biwlo\OneDrive\Рабочий стол\КЗ_11_1\кз_11_1\кз_11_1\bin\Debug\net8.0\кз_11_1.runtimeconfig.json
+C:\Users\biwlo\OneDrive\Рабочий стол\КЗ_11_1\кз_11_1\кз_11_1\bin\Debug\net8.0\кз_11_1.dll
+C:\Users\biwlo\OneDrive\Рабочий стол\КЗ_11_1\кз_11_1\кз_11_1\bin\Debug\net8.0\кз_11_1.pdb
+C:\Users\biwlo\OneDrive\Рабочий стол\КЗ_11_1\кз_11_1\кз_11_1\obj\Debug\net8.0\кз_11_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biwlo\OneDrive\Рабочий стол\КЗ_11_1\кз_11_1\кз_11_1\obj\Debug\net8.0\кз_11_1.AssemblyInfoInputs.cache
+C:\Users\biwlo\OneDrive\Рабочий стол\КЗ_11_1\кз_11_1\кз_11_1\obj\Debug\net8.0\кз_11_1.AssemblyInfo.cs
+C:\Users\biwlo\OneDrive\Рабочий стол\КЗ_11_1\кз_11_1\кз_11_1\obj\Debug\net8.0\кз_11_1.csproj.CoreCompileInputs.cache
+C:\Users\biwlo\OneDrive\Рабочий стол\КЗ_11_1\кз_11_1\кз_11_1\obj\Debug\net8.0\кз_11_1.dll
+C:\Users\biwlo\OneDrive\Рабочий стол\КЗ_11_1\кз_11_1\кз_11_1\obj\Debug\net8.0\refint\кз_11_1.dll
+C:\Users\biwlo\OneDrive\Рабочий стол\КЗ_11_1\кз_11_1\кз_11_1\obj\Debug\net8.0\кз_11_1.pdb
+C:\Users\biwlo\OneDrive\Рабочий стол\КЗ_11_1\кз_11_1\кз_11_1\obj\Debug\net8.0\кз_11_1.genruntimeconfig.cache
+C:\Users\biwlo\OneDrive\Рабочий стол\КЗ_11_1\кз_11_1\кз_11_1\obj\Debug\net8.0\ref\кз_11_1.dll
