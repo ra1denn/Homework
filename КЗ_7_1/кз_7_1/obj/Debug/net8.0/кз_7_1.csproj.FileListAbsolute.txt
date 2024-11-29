@@ -1,0 +1,14 @@
+C:\Users\biwlo\source\repos\кз_7_1\кз_7_1\bin\Debug\net8.0\кз_7_1.exe
+C:\Users\biwlo\source\repos\кз_7_1\кз_7_1\bin\Debug\net8.0\кз_7_1.deps.json
+C:\Users\biwlo\source\repos\кз_7_1\кз_7_1\bin\Debug\net8.0\кз_7_1.runtimeconfig.json
+C:\Users\biwlo\source\repos\кз_7_1\кз_7_1\bin\Debug\net8.0\кз_7_1.dll
+C:\Users\biwlo\source\repos\кз_7_1\кз_7_1\bin\Debug\net8.0\кз_7_1.pdb
+C:\Users\biwlo\source\repos\кз_7_1\кз_7_1\obj\Debug\net8.0\кз_7_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biwlo\source\repos\кз_7_1\кз_7_1\obj\Debug\net8.0\кз_7_1.AssemblyInfoInputs.cache
+C:\Users\biwlo\source\repos\кз_7_1\кз_7_1\obj\Debug\net8.0\кз_7_1.AssemblyInfo.cs
+C:\Users\biwlo\source\repos\кз_7_1\кз_7_1\obj\Debug\net8.0\кз_7_1.csproj.CoreCompileInputs.cache
+C:\Users\biwlo\source\repos\кз_7_1\кз_7_1\obj\Debug\net8.0\кз_7_1.dll
+C:\Users\biwlo\source\repos\кз_7_1\кз_7_1\obj\Debug\net8.0\refint\кз_7_1.dll
+C:\Users\biwlo\source\repos\кз_7_1\кз_7_1\obj\Debug\net8.0\кз_7_1.pdb
+C:\Users\biwlo\source\repos\кз_7_1\кз_7_1\obj\Debug\net8.0\кз_7_1.genruntimeconfig.cache
+C:\Users\biwlo\source\repos\кз_7_1\кз_7_1\obj\Debug\net8.0\ref\кз_7_1.dll
