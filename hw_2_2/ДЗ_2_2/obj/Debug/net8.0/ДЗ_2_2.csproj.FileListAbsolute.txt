@@ -1,0 +1,14 @@
+C:\Users\biwlo\source\repos\ДЗ_2_2\ДЗ_2_2\obj\Debug\net8.0\ДЗ_2_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biwlo\source\repos\ДЗ_2_2\ДЗ_2_2\obj\Debug\net8.0\ДЗ_2_2.AssemblyInfoInputs.cache
+C:\Users\biwlo\source\repos\ДЗ_2_2\ДЗ_2_2\obj\Debug\net8.0\ДЗ_2_2.AssemblyInfo.cs
+C:\Users\biwlo\source\repos\ДЗ_2_2\ДЗ_2_2\obj\Debug\net8.0\ДЗ_2_2.csproj.CoreCompileInputs.cache
+C:\Users\biwlo\source\repos\ДЗ_2_2\ДЗ_2_2\bin\Debug\net8.0\ДЗ_2_2.exe
+C:\Users\biwlo\source\repos\ДЗ_2_2\ДЗ_2_2\bin\Debug\net8.0\ДЗ_2_2.deps.json
+C:\Users\biwlo\source\repos\ДЗ_2_2\ДЗ_2_2\bin\Debug\net8.0\ДЗ_2_2.runtimeconfig.json
+C:\Users\biwlo\source\repos\ДЗ_2_2\ДЗ_2_2\bin\Debug\net8.0\ДЗ_2_2.dll
+C:\Users\biwlo\source\repos\ДЗ_2_2\ДЗ_2_2\bin\Debug\net8.0\ДЗ_2_2.pdb
+C:\Users\biwlo\source\repos\ДЗ_2_2\ДЗ_2_2\obj\Debug\net8.0\ДЗ_2_2.dll
+C:\Users\biwlo\source\repos\ДЗ_2_2\ДЗ_2_2\obj\Debug\net8.0\refint\ДЗ_2_2.dll
+C:\Users\biwlo\source\repos\ДЗ_2_2\ДЗ_2_2\obj\Debug\net8.0\ДЗ_2_2.pdb
+C:\Users\biwlo\source\repos\ДЗ_2_2\ДЗ_2_2\obj\Debug\net8.0\ДЗ_2_2.genruntimeconfig.cache
+C:\Users\biwlo\source\repos\ДЗ_2_2\ДЗ_2_2\obj\Debug\net8.0\ref\ДЗ_2_2.dll
