@@ -6,20 +6,25 @@ namespace task1_1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Введите число");
-            int number = Convert.ToInt32(Console.ReadLine());
-
-            for (int n = 2; n <= number; n++)
+            Console.Write("Введите число: ");
+            int maxNumber;
+            while (!int.TryParse(Console.ReadLine(), out maxNumber) || maxNumber < 2)
             {
-                if (isPrime(n))
-                {
-                    Console.WriteLine(n);
-                }
+                Console.WriteLine("введите число больше 1");
             }
 
+            Console.WriteLine($"Простые числа до {maxNumber}:");
+
+            for (int number = 2; number <= maxNumber; number++)
+            {
+                if (IsPrime(number))
+                {
+                    Console.WriteLine(number);
+                }
+            }
         }
 
-        static bool isPrime(int n)
+        static bool IsPrime(int n)
         {
             if (n < 2) return false;
             for (int i = 2; i < n; i++)

@@ -1,0 +1,21 @@
+C:\Users\biwlo\source\repos\ДЗ_1_1\ДЗ_1_1\obj\Debug\net8.0\ДЗ_1_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biwlo\source\repos\ДЗ_1_1\ДЗ_1_1\obj\Debug\net8.0\ДЗ_1_1.AssemblyInfoInputs.cache
+C:\Users\biwlo\source\repos\ДЗ_1_1\ДЗ_1_1\obj\Debug\net8.0\ДЗ_1_1.AssemblyInfo.cs
+C:\Users\biwlo\source\repos\ДЗ_1_1\ДЗ_1_1\obj\Debug\net8.0\ДЗ_1_1.csproj.CoreCompileInputs.cache
+C:\Users\biwlo\source\repos\ДЗ_1_1\ДЗ_1_1\bin\Debug\net8.0\ДЗ_1_1.exe
+C:\Users\biwlo\source\repos\ДЗ_1_1\ДЗ_1_1\bin\Debug\net8.0\ДЗ_1_1.deps.json
+C:\Users\biwlo\source\repos\ДЗ_1_1\ДЗ_1_1\bin\Debug\net8.0\ДЗ_1_1.runtimeconfig.json
+C:\Users\biwlo\source\repos\ДЗ_1_1\ДЗ_1_1\bin\Debug\net8.0\ДЗ_1_1.dll
+C:\Users\biwlo\source\repos\ДЗ_1_1\ДЗ_1_1\bin\Debug\net8.0\ДЗ_1_1.pdb
+C:\Users\biwlo\source\repos\ДЗ_1_1\ДЗ_1_1\obj\Debug\net8.0\ДЗ_1_1.dll
+C:\Users\biwlo\source\repos\ДЗ_1_1\ДЗ_1_1\obj\Debug\net8.0\refint\ДЗ_1_1.dll
+C:\Users\biwlo\source\repos\ДЗ_1_1\ДЗ_1_1\obj\Debug\net8.0\ДЗ_1_1.pdb
+C:\Users\biwlo\source\repos\ДЗ_1_1\ДЗ_1_1\obj\Debug\net8.0\ДЗ_1_1.genruntimeconfig.cache
+C:\Users\biwlo\source\repos\ДЗ_1_1\ДЗ_1_1\obj\Debug\net8.0\ref\ДЗ_1_1.dll
+C:\Users\biwlo\OneDrive\Рабочий стол\Homework\hw_1_1\ДЗ_1_1\obj\Debug\net8.0\ДЗ_1_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biwlo\OneDrive\Рабочий стол\Homework\hw_1_1\ДЗ_1_1\obj\Debug\net8.0\ДЗ_1_1.AssemblyInfoInputs.cache
+C:\Users\biwlo\OneDrive\Рабочий стол\Homework\hw_1_1\ДЗ_1_1\obj\Debug\net8.0\ДЗ_1_1.AssemblyInfo.cs
+C:\Users\biwlo\OneDrive\Рабочий стол\Homework\hw_1_1\ДЗ_1_1\obj\Debug\net8.0\ДЗ_1_1.csproj.CoreCompileInputs.cache
+C:\Users\biwlo\OneDrive\Рабочий стол\Homework\hw_1_1\ДЗ_1_1\obj\Debug\net8.0\ДЗ_1_1.dll
+C:\Users\biwlo\OneDrive\Рабочий стол\Homework\hw_1_1\ДЗ_1_1\obj\Debug\net8.0\refint\ДЗ_1_1.dll
+C:\Users\biwlo\OneDrive\Рабочий стол\Homework\hw_1_1\ДЗ_1_1\obj\Debug\net8.0\ДЗ_1_1.pdb
